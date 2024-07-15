@@ -22,8 +22,7 @@ Reworking on a system for sign language classification to improve its accuracy a
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abhay1704)
-- [Twitter](https://twitter.com/abhay1704)
+- [LinkedIn](https://www.linkedin.com/in/abps)
 - [Email](mailto:abhay1704@gmail.com)
 
 ## GitHub Stats
