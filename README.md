@@ -40,12 +40,6 @@ Reworking on a system for sign language classification to improve its accuracy a
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
-## Goals for 2024
-
-- Deepen my understanding of machine learning and its applications.
-- Build more web development projects to enhance my portfolio.
-- Improve my communication skills and stay present in all tasks.
-
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat about technology.
