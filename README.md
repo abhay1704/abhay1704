@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Final year B Tech Computer Science(2021 - 25) student with a passion for web development and machine learning. I enjoy exploring new technologies and continually strive to improve myself, especially in areas like communication and attentiveness.
+I'm a Final year B Tech Computer Science(2021 - 25) student with a passion for web development and machine learning. I enjoy exploring new technologies and continually strive to improve myself.
 
 - 🌐 **Web Development:** Proficient in HTML, CSS, JavaScript, and React.
 - 💻 **Programming Languages:** C++, Python, JavaScript.
