@@ -22,6 +22,7 @@ Reworking on a system for sign language classification to improve its accuracy a
 
 ## Connect with Me
 
+- [Portfolio](https://abhaypratapsingh.tech/)
 - [LinkedIn](https://www.linkedin.com/in/abps)
 - [Email](mailto:abhay1704@gmail.com)
 
